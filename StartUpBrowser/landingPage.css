@@ -22,5 +22,5 @@ h1 {
     display: flex;
     background-color: aqua;
     width: 100%;
-    justify-content: center;
+    justify-content: center; 
 }
